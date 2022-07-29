@@ -23,3 +23,9 @@ This _is_ a **markdown** file. This is *the* first __line__ of the markdown file
 ## Check Boxes
 - [ ] Task 1
 - [ ] Task 2
+
+## Tables
+Android | iOS | Windows
+:---|:---:|---:
+Google | Apple | Microsoft
+[Click here]() | [Visit me]() | [Hello there]()
